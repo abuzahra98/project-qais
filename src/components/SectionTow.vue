@@ -142,8 +142,7 @@ function scrollCarousel(direction) {
 }
 
 .carousel-container {
-    height: 200px;
-
+  height: 200px;
   position: relative;
   overflow: hidden;
   border-radius: 20px;
